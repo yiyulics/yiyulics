@@ -2,6 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/EMail_Me-yiyuli.cs%40gmail.com-%2342a7f5)](mailto:yiyuli.cs@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Google_Scholar-Yiyu_LI-%23f59e42)](https://scholar.google.com/citations?user=SXOMocYAAAAJ&hl=en)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Yiyu_LI-%230077B5)](https://www.linkedin.com/in/yiyu-li-cs/)
 
 
 
