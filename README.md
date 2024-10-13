@@ -2,6 +2,8 @@
 
 [![Yiyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiyulics)](https://github.com/anuraghazra/github-readme-stats)
 
+- :high_brightness: I'm interested in 3D Reconstruction and Generation, Image Enhancement, and so on.
+
 <!--
 **yiyulics/yiyulics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
