@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Yiyu LI's GitHub Homepage ![](https://komarev.com/ghpvc/?username=yiyulics)
 
-[![Static Badge](![Static Badge](https://img.shields.io/badge/EMail_Me-Yiyu_LI-blue)](mailto:yiyuli.cs@gmail.com)
+[![Static Badge](https://img.shields.io/badge/EMail_Me-Yiyu_LI-blue)](mailto:yiyuli.cs@gmail.com)
 
 
 - :high_brightness:  My research interests mainly focus on 3D Reconstruction and Generation, Image Enhancement, etc.
