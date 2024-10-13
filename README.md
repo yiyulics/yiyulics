@@ -1,4 +1,4 @@
-## Hi there 👋 This is Yiyu LI's GitHub Homepage ![](https://komarev.com/ghpvc/?username=yiyulics)
+## Hi there 👋 This is Yiyu LI's GitHub Homepage ![](https://komarev.com/ghpvc/?username=yiyulics&color=lightgrey)
 
 [![HomePage](https://img.shields.io/badge/HomePage-Yiyu_LI-%23DB4437)](https://yiyulics.github.io/)
 [![Email](https://img.shields.io/badge/-yiyuli.cs@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:yiyuli.cs@gmail.com)](mailto:yiyuli.cs@gmail.com)
