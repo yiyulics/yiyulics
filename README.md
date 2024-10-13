@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Yiyu LI's GitHub Homepage ![](https://komarev.com/ghpvc/?username=yiyulics)
 
-- :high_brightness:  I'm interested in 3D Reconstruction and Generation, Image Enhancement, etc.
+- :high_brightness:  My research interests mainly focus on 3D Reconstruction and Generation, Image Enhancement, etc.
 - :mortar_board:  Currently, I am a third-year Ph.D. student at the [City University of Hong Kong](https://www.cityu.edu.hk/), advised by [Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/) and [Gerhard Petrus Hancke](https://scholars.cityu.edu.hk/en/persons/gerhard-petrus-hancke(9e59c8eb-ba32-4075-97f7-e44e82367742).html).
 - :scroll:  Previously, I obtained my BSE degree from the [Harbin Institute of Technology](http://hit.edu.cn/) in 2020, majoring in Computer Science and Technology.
 
