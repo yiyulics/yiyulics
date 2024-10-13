@@ -2,7 +2,7 @@
 
 [![HomePage](https://img.shields.io/badge/HomePage-Yiyu_LI-%23DB4437)](https://yiyulics.github.io/)
 [![Email](https://img.shields.io/badge/-yiyuli.cs@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:yiyuli.cs@gmail.com)](mailto:yiyuli.cs@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Yiyu_LI-%234285F4)](https://scholar.google.com/citations?user=SXOMocYAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-%234285F4)](https://scholar.google.com/citations?user=SXOMocYAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yiyu_LI-%230077B5)](https://www.linkedin.com/in/yiyu-li-cs/)
 
 
