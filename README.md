@@ -1,8 +1,8 @@
 ## Hi there 👋 This is Yiyu LI's GitHub Homepage ![](https://komarev.com/ghpvc/?username=yiyulics)
 
 [![Email](https://img.shields.io/badge/-yiyuli.cs@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:yiyuli.cs@gmail.com)](mailto:yiyuli.cs@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Google_Scholar-Yiyu_LI-%23f59e42)](https://scholar.google.com/citations?user=SXOMocYAAAAJ&hl=en)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-Yiyu_LI-%230077B5)](https://www.linkedin.com/in/yiyu-li-cs/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Yiyu_LI-%234285F4)](https://scholar.google.com/citations?user=SXOMocYAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yiyu_LI-%230077B5)](https://www.linkedin.com/in/yiyu-li-cs/)
 
 
 
